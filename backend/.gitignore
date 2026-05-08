@@ -1,0 +1,10 @@
+# Dependencias (esta carpeta es pesadísima y no se sube)
+node_modules/
+
+# Configuración sensible (¡Tus llaves de Mongo y Google!)
+.env
+
+# Archivos del sistema
+.DS_Store
+logs/
+*.log

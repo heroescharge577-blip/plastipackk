@@ -1,0 +1,25 @@
+{
+  "name": "plastipackk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroescharge577-blip/plastipackk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/heroescharge577-blip/plastipackk/issues"
+  },
+  "homepage": "https://github.com/heroescharge577-blip/plastipackk#readme",
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
